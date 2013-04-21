@@ -48,7 +48,7 @@ public class Report extends Activity {
 		double BMI = weight / (height * height);
 
 		DecimalFormat nf = new DecimalFormat("0.00");
-		viewResult.setText(getString(R.string.bmi_result) + nf.format(BMI));
+		viewResult.setText(R.string.bmi_result + nf.format(BMI));
 
 		viewSuggest.setText(BMI > 25 ? R.string.advice_heavy
 				: (BMI < 20 ? R.string.advice_light : R.string.advice_average));
