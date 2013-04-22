@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/home/test/dev/myspace/android/.metadata/.plugins/org.eclipse.jdt.core
-1599909779.index
-3305090235.index
-1498194293.index
