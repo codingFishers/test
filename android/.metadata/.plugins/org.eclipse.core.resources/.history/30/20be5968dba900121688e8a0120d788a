@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-
-    <string name="advice_light">你该多吃点</string>
-    <string name="advice_average">体型很棒喔</string>
-    <string name="advice_heavy">你该节食了</string>
-
-</resources>
