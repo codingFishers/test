@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharpPhoneApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_phoneno">请输入电话号码：</string>
+    <string name="bt_call">拨打号码</string>
+
+</resources>
